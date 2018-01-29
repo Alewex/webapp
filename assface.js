@@ -1,0 +1,1 @@
+var CONST = "MY ASS ITCHES VERY HARD";
